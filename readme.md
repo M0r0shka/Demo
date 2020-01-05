@@ -27,7 +27,7 @@
 Изображения оформляются так же, как и гиперссылки, но перед []
 ставится ! , т.е. ![логотип](url-изображения) :
 
-![logo](https://https://github.com/M0r0shka/Demo/blob/master/logo.png)
+![logo](https://raw.githubusercontent.com/M0r0shka/Demo/master/logo.png)
 
 Посмотреть все возможности оформления, которые предлагает сервис
 GitHub можно по ссылке: https://guides.github.com/features/masteringmarkdown/
