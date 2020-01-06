@@ -25,7 +25,7 @@
 [Текст ссылки](http://localhost)
 
 Изображения оформляются так же, как и гиперссылки, но перед []
-ставится ! , т.е. ![логотип](url-изображения) :
+ставится !:
 
 ![logo](https://raw.githubusercontent.com/M0r0shka/Demo/master/logo.png)
 
